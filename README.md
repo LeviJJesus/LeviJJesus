@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Levi Jardim de Jesus
 
 - 🔭 Atualmente trabalho como auxiliar de produção
-- 🌱 Cursando uma formação completa de desenvolvimento Front-End 324h
+- 🌱 Desenvolvedor Front-End em formação. Tecnologias: HTML5 | CSS3 | JavaScript | React
 - 😄 Pronouns: ele/dele
 
 <div> 
